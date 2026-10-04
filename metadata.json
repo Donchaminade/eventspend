@@ -1,0 +1,6 @@
+{
+  "name": "EventSpend PWA - Suivi Dépenses Événements",
+  "description": "Application PWA mobile-first de gestion et suivi des dépenses d'événements en temps réel avec graphiques, justificatifs, notifications organisateurs et exports PDF/CSV.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
